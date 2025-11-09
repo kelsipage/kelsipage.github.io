@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kelsipage.github.io/kelsipage/sitemap.xml
+Sitemap: https://kelsipage.github.io/sitemap.xml

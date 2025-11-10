@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
+title: Cyber Funding
 description: with background image
-img: assets/img/12.jpg
+img: vitaly-gariev-xZm0V49NXJI-unsplash.jpg
 importance: 1
 category: work
 related_publications: true

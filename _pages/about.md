@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Reading, PA. <[email](kelsi.page@gmail.com)>. Learning for All.
+subtitle: Reading, PA. "< a href="mailto:kelsi.page@gmail.com">Email Me< /a>". Learning for All.
 
 profile:
   align: right

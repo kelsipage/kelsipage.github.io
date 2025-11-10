@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Exploring the world of Education",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -437,8 +437,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-cyber-funding",
+          title: 'Cyber Funding',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";

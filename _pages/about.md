@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Reading, PA. kelsi.page@gmail.com. Learning for All.
 
 profile:
   align: right
   image: its_me.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Reading, PA</p>
+#    <p>Reading, PA</p>
 #    <p>123 your address street</p>
 #    <p>Your City, State 12345</p>
 

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Reading, PA. kelsi.page@gmail.com. Learning for All.
+subtitle: <a href='#'>Affiliations</a>. Reading, PA. [email](kelsi.page@gmail.com). Learning for All.
 
 profile:
   align: right

@@ -17,15 +17,16 @@ I collected raw data from the Pennsylvania Department of Education website. I wa
 #Insights
 The school district most impacted is Aliquippa School District in Western PA. 15% of their budget went to cyber charter school tuition in the 2022-2023 school year. All of the districts that paid at least 10% of their budget to cyber charter school tuition were midsized school districts with budgets between 20M and 50M. Most districts in PA allocated 8% or less of their budgets to cyber charter school tuition. The largest districts in PA, Philadelphia (5B budget) and Pittsburgh (800M budget) spent 5% of their budget on cyber charter school tuition.
 
+
 <iframe src="https://onedrive.live.com/embed?resid=7426DB25AA193AE9%21106&authkey=!VIbvnkJhT0KB0YWF&em=2" width="800" height="600" frameborder="0" scrolling="yes"></iframe>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="<iframe width="98" height="120" src="https://1drv.ms/x/c/7426DB25AA193AE9/IQRUhu-eQmFPQoHRhYX5ypX-AfwIYUEi2robyi8ef-HmOHY" frameborder="0" scrolling="yes"></iframe>" title="example image" class="img-fluid rounded z-depth-1" %}
+        <iframe src="https://1drv.ms/x/c/7426DB25AA193AE9/IQRUhu-eQmFPQoHRhYX5ypX-AfwIYUEi2robyi8ef-HmOHY" width="100%" height="600" frameborder="0" scrolling="no" class="rounded z-depth-1"></iframe>
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    This is your Excel workbook embedded.
 </div>
 
 ##SQL

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Reading, PA. "< a href="mailto:kelsi.page@gmail.com">Email Me< /a>". Learning for All.
+subtitle: Reading, PA | Learning for All
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Kelsi. I'm a lifelong learner and educator who is passionate about educational accessibility and equity. I create accessible resources for non-speaking students and explore interests in educational policy and funding through projects and self-study. Outside of the classroom, I co-founded a local non-profit, Lehigh Valley Girls Rock, that has continued to grow since 2013. Our goal was to empower young girls, trans and non-binary folks to express themselves through art and music, and it's success can be seen through all of the youth that have returned each year for camp and the bands and relationships that have formed from the programming.
+Hi, I'm Kelsi. I'm a lifelong learner and educator who is passionate about educational accessibility and equity. I create accessible resources for non-speaking students and explore interests in educational policy through projects and self-study. Outside of the classroom, I co-founded a local youth empowerment non-profit, Lehigh Valley Girls Rock, that has continued to grow since 2013. 
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 

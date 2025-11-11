@@ -439,7 +439,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-cyber-funding",
           title: 'Cyber Funding',
-          description: "with background image",
+          description: "Exploring the impacts that cyber and charter school tuition has on public school districts in Pennsylvania.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",

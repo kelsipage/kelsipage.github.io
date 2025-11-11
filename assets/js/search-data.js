@@ -508,7 +508,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/{"logo"=>"https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png", "title"=>"Custom Social", "url"=>"https://www.alberteinstein.com/"}", "_blank");
+          window.open("https://www.linkedin.com/in/{"logo"=>"the accessible teacher logo.png", "title"=>"My Teachers Pay Teachers Store", "url"=>"https://www.teacherspayteachers.com/store/the-accessible-teacher"}", "_blank");
         },
       },{
       id: 'light-theme',

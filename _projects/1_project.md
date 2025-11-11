@@ -17,6 +17,17 @@ I collected raw data from the Pennsylvania Department of Education website. I wa
 #Insights
 The school district most impacted is Aliquippa School District in Western PA. 15% of their budget went to cyber charter school tuition in the 2022-2023 school year. All of the districts that paid at least 10% of their budget to cyber charter school tuition were midsized school districts with budgets between $20M and $50M. Most districts in PA allocated 8% or less of their budgets to cyber charter school tuition. The largest districts in PA, Philadelphia ($5B budget) and Pittsburgh ($800M budget) spent 5% of their budget on cyber charter school tuition.
 
+<iframe src="https://1drv.ms/x/c/7426DB25AA193AE9/IQRUhu-eQmFPQoHRhYX5ypX-AfwIYUEi2robyi8ef-HmOHY" width="98" height="120" frameborder="0" scrolling="no"></iframe>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="<iframe src="https://1drv.ms/x/c/7426DB25AA193AE9/IQRUhu-eQmFPQoHRhYX5ypX-AfwIYUEi2robyi8ef-HmOHY" width="98" height="120" frameborder="0" scrolling="no"></iframe>" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This image can also have a caption. It's like magic.
+</div>
+
 ##SQL
 I imported all of the raw data and EDA to SQL to dig deeper into the impacts of cyber charter school tuition on public school districts. I identified some remaining questions I had, particularly what populations of people are most affected by the tuition rates paid to the cyber charter schools. To explore this, I found additional data on the PA Department of Education website on the racial make up of the states' districts and which counties are designated rural and urban. I was really hoping to find data also identifying suburban school districts, but I was unable to find these data. I also wanted to look at the impacts of cyber funding on special education students, both enrolled in cyber charter schools and the funding for public school districts but I was unable to find the data that I needed.
 

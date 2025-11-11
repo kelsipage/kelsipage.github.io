@@ -2,7 +2,7 @@
 layout: page
 title: Cyber Funding
 description: with background image
-img: vitaly-gariev-xZm0V49NXJI-unsplash.jpg
+img: cyber pic.jpg
 importance: 1
 category: work
 related_publications: true

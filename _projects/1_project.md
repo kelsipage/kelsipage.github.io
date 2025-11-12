@@ -17,16 +17,13 @@ I collected raw data from the Pennsylvania Department of Education website. I wa
 #Insights
 The school district most impacted is Aliquippa School District in Western PA. 15% of their budget went to cyber charter school tuition in the 2022-2023 school year. All of the districts that paid at least 10% of their budget to cyber charter school tuition were midsized school districts with budgets between 20M and 50M. Most districts in PA allocated 8% or less of their budgets to cyber charter school tuition. The largest districts in PA, Philadelphia (5B budget) and Pittsburgh (800M budget) spent 5% of their budget on cyber charter school tuition.
 
-
-<iframe src="https://onedrive.live.com/embed?resid=7426DB25AA193AE9%21106&authkey=!VIbvnkJhT0KB0YWF&em=2" width="800" height="600" frameborder="0" scrolling="yes"></iframe>
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <iframe src="https://1drv.ms/x/c/7426DB25AA193AE9/IQRUhu-eQmFPQoHRhYX5ypX-AfwIYUEi2robyi8ef-HmOHY" width="100%" height="600" frameborder="0" scrolling="no" class="rounded z-depth-1"></iframe>
     </div>
 </div>
 <div class="caption">
-    This is your Excel workbook embedded.
+    This sheet shows the percentage of each school districts' 2022-2023 budget that is allocated for Cyber Charter School tuition. Raw data from (PA Department of Education](https://www.pa.gov/content/dam/copapwp-pagov/en/education/documents/schools/grants-and-funding/school-finances/summary-of-afr-data/afr-data-detailed/finances%20afr%20majorobject%201415-2324.xlsx) and [AFR Data](https://www.pa.gov/agencies/education/programs-and-services/schools/grants-and-funding/school-finances/financial-data/summary-of-annual-financial-report-data/afr-data-detailed)
 </div>
 
 ##SQL

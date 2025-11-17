@@ -50,7 +50,7 @@ linkedin_username: # kelsipage
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-# custom_social: # can be any name here other than the ones already defined above
+custom_social: # can be any name here other than the ones already defined above
   logo: the accessible teacher logo.png # can be png, svg, jpg
   title: My Teachers Pay Teachers Store
   url: https://www.teacherspayteachers.com/store/the-accessible-teacher

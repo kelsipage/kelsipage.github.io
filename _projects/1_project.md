@@ -36,7 +36,7 @@ I imported all of the raw data and EDA to SQL to dig deeper into the impacts of 
 </div>
 
 # Insights
-Looking at the impacts on rural vs. urban districts, these data showed minimal differences. The average percentage of tution for rural schools was 0.034 and for urban districts, 0.027. 
+Looking at the impacts on rural vs. urban districts, these data showed minimal differences. The average percentage of tuition for rural schools was 0.034 and for urban districts, 0.027. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

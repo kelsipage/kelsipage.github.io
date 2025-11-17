@@ -29,9 +29,38 @@ The school district most impacted is Aliquippa School District in Western PA. 15
 ## SQL
 I imported all of the raw data and EDA to SQL to dig deeper into the impacts of cyber charter school tuition on public school districts. I identified some remaining questions I had, particularly what populations of people are most affected by the tuition rates paid to the cyber charter schools. To explore this, I found additional data on the PA Department of Education's website on the racial make up of the states' districts and which counties are designated rural and urban. I was really hoping to find data also identifying suburban school districts, but I was unable to find these data. I also wanted to look at the impacts of cyber funding on special education students, both enrolled in cyber charter schools and the funding for public school districts but I was unable to find the data that I needed.
 
-# Insights
-Looking at the impacts on rural vs. urban districts, these data showed minimal differences. The average percentage of tution for rural schools was 0.034 and for urban districts, 0.027. Looking at the racial makeup of the school districts that are paying a greater percentage of their annual budget to cyber charter schools vs. districts that paid less was more distinct. Most of the minority majority school districts paid 5% of their annual budget to cyber charter schools, as well as Aliquippa and Chester-Upland, the schools paying the highest and 4th highest percentages.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <iframe src="https://1drv.ms/u/c/7426DB25AA193AE9/IQT1awcGpOwsSJTtOq9Ooew6AQrx6P4ZsR0urea59fD33qc" width="100%" height="600" frameborder="0" scrolling="no" class="rounded z-depth-1"></iframe>
+    </div>
+</div>
 
+# Insights
+Looking at the impacts on rural vs. urban districts, these data showed minimal differences. The average percentage of tution for rural schools was 0.034 and for urban districts, 0.027. 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <iframe src="https://1drv.ms/x/c/7426DB25AA193AE9/IQTIdrPEStiJQ7FsA6XLy6kJAXVqkHs0g866QCV_qbu143Y" width="100%" height="600" frameborder="0" scrolling="no" class="rounded z-depth-1"></iframe>
+    </div>
+</div>
+
+Looking at the racial makeup of the school districts that are paying a greater percentage of their annual budget to cyber charter schools vs. districts that paid less was more distinct. Most of the minority majority school districts paid 5% of their annual budget to cyber charter schools, as well as Aliquippa and Chester-Upland, the schools paying the highest and 4th highest percentages.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <iframe src="https://1drv.ms/x/c/7426DB25AA193AE9/IQROVIswlVizSptDsewlPU2FAf4HKJ9E8VtaA_GDBAJa9mA" width="100%" height="600" frameborder="0" scrolling="no" class="rounded z-depth-1"></iframe>
+    </div>
+</div>
+
+Lastly, I looked at the PA Counties, averaging the percentage of payment to cyber charter schools to identify if some counties were impacted more than others. These data show that there is a slightly greater imapct on rural counties compared to urban counties.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <iframe src="https://1drv.ms/x/c/7426DB25AA193AE9/IQSejhOpfEzIQIxo7Zhhx8LoARP51Zi_Zr11RQyjFxAGlrs" width="100%" height="600" frameborder="0" scrolling="no" class="rounded z-depth-1"></iframe>
+    </div>
+</div>
+
+<!-- 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="cyber pic.jpg" title="Cyber Funding" class="img-fluid rounded z-depth-1" %}
@@ -89,4 +118,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 
-{% endraw %}
+{% endraw %} -->

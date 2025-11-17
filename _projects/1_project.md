@@ -19,7 +19,7 @@ The school district most impacted is Aliquippa School District in Western PA. 15
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe src="https://1drv.ms/x/c/7426DB25AA193AE9/IQRUhu-eQmFPQoHRhYX5ypX-AfwIYUEi2robyi8ef-HmOHY" width="100%" height="600" frameborder="0" scrolling="no" class="rounded z-depth-1"></iframe>
+        <iframe src="https://1drv.ms/x/c/7426DB25AA193AE9/IQR8pSd3gGmmQbIQepgEiS7AAWr8onAOA6uabwSamwQnVd0" width="100%" height="600" frameborder="0" scrolling="no" class="rounded z-depth-1"></iframe>
     </div>
 </div>
 <div class="caption">
@@ -27,7 +27,7 @@ The school district most impacted is Aliquippa School District in Western PA. 15
 </div>
 
 ## SQL
-I imported all of the raw data and EDA to SQL to dig deeper into the impacts of cyber charter school tuition on public school districts. I identified some remaining questions I had, particularly what populations of people are most affected by the tuition rates paid to the cyber charter schools. To explore this, I found additional data on the PA Department of Education website on the racial make up of the states' districts and which counties are designated rural and urban. I was really hoping to find data also identifying suburban school districts, but I was unable to find these data. I also wanted to look at the impacts of cyber funding on special education students, both enrolled in cyber charter schools and the funding for public school districts but I was unable to find the data that I needed.
+I imported all of the raw data and EDA to SQL to dig deeper into the impacts of cyber charter school tuition on public school districts. I identified some remaining questions I had, particularly what populations of people are most affected by the tuition rates paid to the cyber charter schools. To explore this, I found additional data on the PA Department of Education's website on the racial make up of the states' districts and which counties are designated rural and urban. I was really hoping to find data also identifying suburban school districts, but I was unable to find these data. I also wanted to look at the impacts of cyber funding on special education students, both enrolled in cyber charter schools and the funding for public school districts but I was unable to find the data that I needed.
 
 # Insights
 Looking at the impacts on rural vs. urban districts, these data showed minimal differences. The average percentage of tution for rural schools was 0.034 and for urban districts, 0.027. Looking at the racial makeup of the school districts that are paying a greater percentage of their annual budget to cyber charter schools vs. districts that paid less was more distinct. Most of the minority majority school districts paid 5% of their annual budget to cyber charter schools, as well as Aliquippa and Chester-Upland, the schools paying the highest and 4th highest percentages.

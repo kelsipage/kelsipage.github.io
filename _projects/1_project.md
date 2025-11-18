@@ -26,7 +26,7 @@ The school district most impacted is Aliquippa School District in Western PA. 15
     </div>
 </div>
 <div class="caption">
-    This sheet shows the percentage of each school districts' 2022-2023 budget that is allocated for Cyber Charter School tuition. Raw data from <a href=”[https://www.pa.gov/content/dam/copapwp-pagov/en/education/documents/schools/grants-and-funding/school-finances/summary-of-afr-data/afr-data-detailed/finances%20afr%20majorobject%201415-2324.xlsx]”>[PA Department of Education]</a> and <a href=”[https://www.pa.gov/agencies/education/programs-and-services/schools/grants-and-funding/school-finances/financial-data/summary-of-annual-financial-report-data/afr-data-detailed]”>[AFR Data]</a>
+    This sheet shows the percentage of each school districts' 2022-2023 budget that is allocated for Cyber Charter School tuition. Raw data from <a href="https://www.pa.gov/content/dam/copapwp-pagov/en/education/documents/schools/grants-and-funding/school-finances/summary-of-afr-data/afr-data-detailed/finances%20afr%20majorobject%201415-2324.xlsx" target="_blank" rel="noopener noreferrer">PA Department of Education</a> and <a href="https://www.pa.gov/agencies/education/programs-and-services/schools/grants-and-funding/school-finances/financial-data/summary-of-annual-financial-report-data/afr-data-detailed" target="_blank" rel="noopener noreferrer">AFR Data</a>.
 </div>
 
 ## SQL

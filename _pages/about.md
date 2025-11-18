@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Kelsi. I'm a lifelong learner and educator who is passionate about educational accessibility and equity. I create accessible resources for non-speaking students and explore interests in educational policy through projects and self-study. Outside of the classroom, I co-founded a local youth empowerment non-profit, Lehigh Valley Girls Rock, that has continued to grow since 2013. 
+Hi, I'm Kelsi. I'm a lifelong learner and educator who is passionate about educational accessibility and equity. I create accessible resources for non-speaking students and explore interests in educational policy through projects and self-study. Outside of the classroom, I co-founded a local youth empowerment non-profit, Lehigh Valley Girls Rock, that has continued to grow since 2013.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 

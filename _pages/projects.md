@@ -61,6 +61,5 @@ horizontal: false
     {% endfor %}
   </div>
   {% endif %}
-{% endif %}
-{% endif %}
+  {% endif %}
 </div>

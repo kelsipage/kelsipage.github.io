@@ -70,7 +70,7 @@ I took the most interesting datasets from SQL and imported them into Tableau to 
 <br>
 ###Insights
 <br>
-I started with the County data. Knowing where some of the different major regions are in Pennsylvania such as the Philly suburbs, the coal region, the greater Pittsburgh area, and the Appalachian Mountains, I wanted to see if these data showed any regions that were impacted more. The first area that I noticed was the significantly darker strip that goes from the northeast coal region all the way down through the Appalachian Mountain region. These regions combined have paid a larger percentage of their annual budgets for cyber charter school tuition than other regions in the state. You can also see that the suburbs around Philadelphia combined are paying a much lower percentage of their annual budget than the rest of the regions in the state.
+I started with the County data. Knowing where some of the different major regions are in Pennsylvania such as the Philly suburbs, the coal region, the greater Pittsburgh area, and the Appalachian Mountains. I wanted to see if these data showed any regions that were impacted more. The most idenfitiable impacted area was the significantly darker strip that goes from the northeast coal region all the way down through the Appalachian Mountain region. These regions combined have paid a larger percentage of their annual budgets for cyber charter school tuition than other regions in the state. You can also see that the suburbs around Philadelphia combined are paying a much lower percentage of their annual budget than the rest of the regions in the state.
 <br>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

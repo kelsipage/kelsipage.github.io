@@ -9,6 +9,7 @@ related_publications: true
 ---
 
 ## Project Overview
+
 <br>
 There is a lot of discussion on the impacts that charter school per student tuition rates have had on public school districts and their consituents as shown by this [presentation to the PA House Democratic Policy Committee](https://www.pahouse.com/files/Documents/Testimony/2022-04-04_112445__040422%20Merged%20Agenda%20Testimony.pdf) and this [Pennsylvania State audit of Cyber Charter School funding](https://paauditor.b-cdn.net/wp-content/uploads/speCyberCharters022025.pdf). State Representatives, education organizations and impacted school districts have been working together to make adjustments to this formula to create a more equitable tuition rate that would benefit all students in Pennsylvania resulting in this [proposed legislation to create an equitable funding formula for PA Charter Schools](https://pahouse.com/InTheNews/NewsRelease/?id=138406). These data explore the specific financial impacts that cyber charter school tution rates have had on public school districts in Pennsylvania during the 2022-2023 school year.
 <br>
@@ -80,7 +81,6 @@ I started with the County data. Knowing where some of the different major region
 <br>
 I compared this map to the [Niche Schools map](https://www.niche.com/k12/search/best-public-high-schools/s/pennsylvania/?map=true) of the top schools in PA to see if there were any similarities. Most of the top rated schools in the state are in the suburbs where districts are paying the least amount in cyber charter school tuition.
 
-
 <!--
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -140,4 +140,5 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %} -->
+
 {% endraw %} -->

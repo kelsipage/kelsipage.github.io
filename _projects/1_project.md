@@ -45,11 +45,11 @@ Looking at the impacts on rural vs. urban districts, these data showed minimal d
 <br>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe src="https://1drv.ms/x/c/7426DB25AA193AE9/IQTIdrPEStiJQ7FsA6XLy6kJAXVqkHs0g866QCV_qbu143Y" width="100%" height="600" frameborder="0" scrolling="no" class="rounded z-depth-1"></iframe>
+        <iframe src="https://1drv.ms/x/c/7426DB25AA193AE9/IQTIdrPEStiJQ7FsA6XLy6kJAXVqkHs0g866QCV_qbu143Y" width="100%" height="300" frameborder="0" scrolling="no" class="rounded z-depth-1"></iframe>
     </div>
 </div>
 <br>
-Looking at the racial makeup of the school districts that are paying a greater percentage of their annual budget to cyber charter schools vs. districts that paid less was more distinct. Most of the minority majority school districts paid 5% of their annual budget to cyber charter schools, as well as Aliquippa and Chester-Upland, the schools paying the highest and 4th highest percentages.
+Looking at the racial makeup of the school districts that are paying a greater percentage of their annual budget to cyber charter schools vs. districts that paid less was more distinct. Most of the minority majority school districts paid 5% of their annual budget to cyber charter schools, as well as Aliquippa and Chester-Upland; the schools paying the highest and 4th highest percentages.
 <br>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -64,7 +64,6 @@ Finally, I looked at the PA Counties, averaging the percentage of payment to cyb
         <iframe src="https://1drv.ms/x/c/7426DB25AA193AE9/IQSejhOpfEzIQIxo7Zhhx8LoARP51Zi_Zr11RQyjFxAGlrs" width="100%" height="600" frameborder="0" scrolling="no" class="rounded z-depth-1"></iframe>
     </div>
 </div>
-
 <!--
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -123,4 +122,5 @@ Here's the code for the last row of images above:
 </div>
 ```
 
+{% endraw %} -->
 {% endraw %} -->

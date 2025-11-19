@@ -1,4 +1,3 @@
----
 layout: page
 title: Cyber Funding
 description: Exploring the impacts that cyber and charter school tuition has on public school districts in Pennsylvania.
@@ -6,7 +5,6 @@ img: assets/img/cyber pic.jpg
 importance: 1
 category: work
 related_publications: true
----
 
 ## Project Overview
 
@@ -75,7 +73,34 @@ I took the most interesting datasets from SQL and imported them into Tableau to 
 I started with the County data. Knowing where some of the different major regions are in Pennsylvania such as the Philly suburbs, the coal region, the greater Pittsburgh area, and the Appalachian Mountains, I wanted to see if these data showed any regions that were impacted more. The first area that I noticed was the significantly darker strip that goes from the northeast coal region all the way down through the Appalachian Mountain region. These regions combined have paid a larger percentage of their annual budgets for cyber charter school tuition than other regions in the state. You can also see that the suburbs around Philadelphia combined are paying a much lower percentage of their annual budget than the rest of the regions in the state.
 <br>
 <div class="row">
-    <div class='tableauPlaceholder' id='viz1763523360965' style='position: relative'><noscript><a href='#'><img alt='County Impacts ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;CountyImpacts&#47;CountyImpacts&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CountyImpacts&#47;CountyImpacts' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;CountyImpacts&#47;CountyImpacts&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1763523360965');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+    <div class="col-sm mt-3 mt-md-0">
+        <div class='tableauPlaceholder' id='viz1763523360965' style='position: relative'>
+            <noscript><a href='#'><img alt='County Impacts ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;CountyImpacts&#47;CountyImpacts&#47;1_rss.png' style='border: none' /></a></noscript>
+            <object class='tableauViz'  style='display:none;'>
+                <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+                <param name='embed_code_version' value='3' />
+                <param name='site_root' value='' />
+                <param name='name' value='CountyImpacts&#47;CountyImpacts' />
+                <param name='tabs' value='no' />
+                <param name='toolbar' value='yes' />
+                <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;CountyImpacts&#47;CountyImpacts&#47;1.png' />
+                <param name='animate_transition' value='yes' />
+                <param name='display_static_image' value='yes' />
+                <param name='display_spinner' value='yes' />
+                <param name='display_overlay' value='yes' />
+                <param name='display_count' value='yes' />
+                <param name='language' value='en-US' />
+            </object>
+        </div>
+        <script type='text/javascript'>
+            var divElement = document.getElementById('viz1763523360965');
+            var vizElement = divElement.getElementsByTagName('object')[0];
+            vizElement.style.width='100%';
+            vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+            var scriptElement = document.createElement('script');
+            scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+            vizElement.parentNode.insertBefore(scriptElement, vizElement);
+        </script>
     </div>
 </div>
 <br>

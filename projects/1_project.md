@@ -2,7 +2,7 @@ layout: page
 title: Cyber Funding
 description: Exploring the impacts that cyber and charter school tuition has on public school districts in Pennsylvania.
 img: assets/img/cyber pic.jpg
-importance: 0
+importance: 1
 category: work
 related_publications: true
 

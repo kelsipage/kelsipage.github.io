@@ -112,13 +112,18 @@ I compared this visualization to the [Niche Schools map](https://www.niche.com/k
 <br>
 Next I dug into District data. I wanted to see specifically how varied percentages of payments to cyber charter schools were and what affects they have had on school districts. Most schools are paying 8% of their annual budget or less on cyber charter school tuition. The data points greater than 8% were most interesting to me.
 <br>
+<br>
 Aliquippa District is the most impacted. Prior to these data, this school district had already struggled financially according to the [S&P Rating System](https://www.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/1080947). The same year that these data were released, a PA judge ruled that the state's system of funding public schools is unconstitutional. The Superintendent of Aliquippa was [interviewed](https://www.wtae.com/article/pa-school-funding-unconstitutional-aliquippa-superintendent/42805527) about this ruling. 
+<br>
 <br>
 Steelton-Highspire School District has also been greatly impacted by cyber charter school tuition. After years of operating in a defecit, they were placed in a [financial recovery program](https://www.pa.gov/agencies/education/newsroom/shapiro-administration-appoints-chief-recovery-officer-to-steelt) offered by the state to lead them into financial solvency. 
 <br>
+<br>
 West Perry School District has also faced challenges both with [funding and declining enrollment](https://www.wgal.com/article/west-perry-school-district-holds-town-hall-about-elementary-school-consolidation-proposal/64910612). Both of these issues have caused the school district to look into merging all of their elementary schools into one building on the High School's campus.
 <br>
+<br>
 This year, the state of PA passed a [new budget](https://www.pa.gov/agencies/education/newsroom/shapiro-administration-secures-major-policy-wins-in-2025-2026-budget-expanding-educator-workforce-strengthening-literacy-initatives-reforming-cyber-charter-law#:~:text=It%20also%20reforms%20Pennsylvania's%20cyber,at%20least%20once%20per%20week.) including a redefinition of the cyber charter school funding formula. This new budget will save $175 million for school districts across the state moving forward.
+<br>
 <br>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

@@ -158,7 +158,7 @@ This year, the state of PA passed a [new budget](https://www.pa.gov/agencies/edu
 </div>
 <br>
 Final question: Is the increasing enrollment in cyber charter schools due to a desire to participate in a virtual education or due to lack of funding for some of our state's poorest and underfunded districts?
-<!--
+<!-- 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img src="assets/img/cyber pic.jpg" alt="Cyber Funding" class="img-fluid rounded z-depth-1" loading="eager" />

@@ -70,7 +70,7 @@ Finally, I looked at the PA Counties, averaging the percentage of payment to cyb
 <br>
 I took the most interesting datasets from SQL and imported them into Tableau to see the data visually. I created the following visualizations to show the impact of cyber charter school tuition on PA school districts by County, District and the racial majorities of each district. One issue I ran into is that Tableau does not provide axis breaks for outliers. I would like to recreate the District visualization in R to get better insights on the Districts that fall in the cluster. You can view all of my visualizations on my [Tableau Public page](https://public.tableau.com/app/profile/kelsi.page/vizzes)
 <br>
-### Insights
+### County Data
 <br>
 I started with the County data. Knowing where some of the different major regions are in Pennsylvania such as the Philly suburbs, the coal region, the greater Pittsburgh area, and the Appalachian Mountains. I wanted to see if these data showed any regions that were impacted more. The most idenfitiable impacted area was the significantly darker strip that goes from the northeast coal region all the way down through the Appalachian Mountain region. These regions combined have paid a larger percentage of their annual budgets for cyber charter school tuition than other regions in the state. You can also see that the suburbs around Philadelphia combined are paying a much lower percentage of their annual budget than the rest of the regions in the state.
 <br>
@@ -108,6 +108,7 @@ I started with the County data. Knowing where some of the different major region
 <br>
 I compared this visualization to the [Niche Schools map](https://www.niche.com/k12/search/best-public-high-schools/s/pennsylvania/?map=true) of the top schools in PA to see if there were any similarities. Most of the top rated schools in the state are in the suburbs where districts are paying the least amount in cyber charter school tuition.
 <br>
+### District Data
 <br>
 Next I dug into District data. I wanted to see specifically how varied percentages of payments to cyber charter schools were and what affects they have had on school districts. Most schools are paying 8% of their annual budget or less on cyber charter school tuition. The data points greater than 8% were most interesting to me.
 <br>
@@ -118,6 +119,7 @@ Steelton-Highspire School District has also been greatly impacted by cyber chart
 West Perry School District has also faced challenges both with [funding and declining enrollment](https://www.wgal.com/article/west-perry-school-district-holds-town-hall-about-elementary-school-consolidation-proposal/64910612). Both of these issues have caused the school district to look into merging all of their elementary schools into one building on the High School's campus.
 <br>
 This year, the state of PA passed a [new budget](https://www.pa.gov/agencies/education/newsroom/shapiro-administration-secures-major-policy-wins-in-2025-2026-budget-expanding-educator-workforce-strengthening-literacy-initatives-reforming-cyber-charter-law#:~:text=It%20also%20reforms%20Pennsylvania's%20cyber,at%20least%20once%20per%20week.) including a redefinition of the cyber charter school funding formula. This new budget will save $175 million for school districts across the state moving forward.
+<br>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <div class='tableauPlaceholder' id='viz1763607946571' style='position: relative'>
@@ -150,7 +152,7 @@ This year, the state of PA passed a [new budget](https://www.pa.gov/agencies/edu
     </div>
 </div>
 <br>
-
+Final question: Is the increasing enrollment in cyber charter schools due to a desire to participate in a virtual education or due to lack of funding for some of our state's poorest and underfunded districts?
 <!--
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

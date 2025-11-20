@@ -101,11 +101,11 @@ DEPRECATION WARNING: `to_time` will always preserve the receiver timezone rather
            Reading: _scripts/giscus-setup.js
            Reading: _scripts/open-panel-analytics-setup.js
            Reading: _scripts/google-analytics-setup.js
+       EntryFilter: excluded /_pages/profiles.md
        EntryFilter: excluded /_pages/about_einstein.md
            Reading: _pages/repositories.md
            Reading: _pages/cv.md
            Reading: _pages/news.md
-           Reading: _pages/profiles.md
            Reading: _pages/blog.md
            Reading: _pages/dropdown.md
            Reading: _pages/projects.md
@@ -134,15 +134,16 @@ DEPRECATION WARNING: `to_time` will always preserve the receiver timezone rather
            Reading: _data/repositories.yml
            Reading: _data/socials.yml
            Reading: _data/venues.yml
-        Generating: JekyllGetJson::GetJsonGenerator finished in 0.000255 seconds.
-        Generating: Jekyll::Scholar::DetailsGenerator finished in 2.5e-05 seconds.
+        Generating: JekyllGetJson::GetJsonGenerator finished in 0.000267 seconds.
+        Generating: Jekyll::Scholar::DetailsGenerator finished in 3.5e-05 seconds.
 Fetching external posts from medium.com:
 ...fetching https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2
 Fetching external posts from Google Blog:
 ...fetching https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        Generating: ExternalPosts::ExternalPostsGenerator finished in 0.634029 seconds.
-        Generating: Jekyll::ArchivesV2::Archives finished in 0.005688 seconds.
-        Generating: JekyllJupyterNotebook::Generator finished in 0.003601 seconds.
+        Generating: ExternalPosts::ExternalPostsGenerator finished in 0.82559 seconds.
+        Generating: Jekyll::ArchivesV2::Archives finished in 0.00382 seconds.
+           Reading: assets/jupyter/blog.ipynb
+        Generating: JekyllJupyterNotebook::Generator finished in 0.002559 seconds.
 Terser: Minifying /Users/kelsipage/Documents/GitHub/kelsipage.github.io/assets/js/bibsearch.js
 Terser: Minifying /Users/kelsipage/Documents/GitHub/kelsipage.github.io/assets/js/chartjs-setup.js
 Terser: Minifying /Users/kelsipage/Documents/GitHub/kelsipage.github.io/assets/js/common.js
@@ -172,7 +173,7 @@ Terser: Minifying /Users/kelsipage/Documents/GitHub/kelsipage.github.io/assets/j
 Terser: Minifying /Users/kelsipage/Documents/GitHub/kelsipage.github.io/assets/js/venobox-setup.js
 Terser: Minifying /Users/kelsipage/Documents/GitHub/kelsipage.github.io/assets/js/wechat.js
 Terser: Minifying /Users/kelsipage/Documents/GitHub/kelsipage.github.io/assets/js/zoom.js
-        Generating: Jekyll::Terser::TerserGenerator finished in 0.001003 seconds.
+        Generating: Jekyll::Terser::TerserGenerator finished in 0.00065 seconds.
        Imagemagick: Searching files in /Users/kelsipage/Documents/GitHub/kelsipage.github.io/assets/img/
        Imagemagick: Adding static file /Users/kelsipage/Documents/GitHub/kelsipage.github.io/_site/assets/img/1-480.webp
        Imagemagick: Adding static file /Users/kelsipage/Documents/GitHub/kelsipage.github.io/_site/assets/img/1-800.webp
@@ -237,19 +238,19 @@ Terser: Minifying /Users/kelsipage/Documents/GitHub/kelsipage.github.io/assets/j
        Imagemagick: Adding static file /Users/kelsipage/Documents/GitHub/kelsipage.github.io/_site/assets/img/template_error-480.webp
        Imagemagick: Adding static file /Users/kelsipage/Documents/GitHub/kelsipage.github.io/_site/assets/img/template_error-800.webp
        Imagemagick: Adding static file /Users/kelsipage/Documents/GitHub/kelsipage.github.io/_site/assets/img/template_error-1400.webp
-       Imagemagick: Adding static file /Users/kelsipage/Documents/GitHub/kelsipage.github.io/_site/assets/img/the accessible teacher logo-480.webp
-       Imagemagick: Adding static file /Users/kelsipage/Documents/GitHub/kelsipage.github.io/_site/assets/img/the accessible teacher logo-800.webp
-       Imagemagick: Adding static file /Users/kelsipage/Documents/GitHub/kelsipage.github.io/_site/assets/img/the accessible teacher logo-1400.webp
+       Imagemagick: Adding static file /Users/kelsipage/Documents/GitHub/kelsipage.github.io/_site/assets/img/the-accessible-teacher-logo-480.webp
+       Imagemagick: Adding static file /Users/kelsipage/Documents/GitHub/kelsipage.github.io/_site/assets/img/the-accessible-teacher-logo-800.webp
+       Imagemagick: Adding static file /Users/kelsipage/Documents/GitHub/kelsipage.github.io/_site/assets/img/the-accessible-teacher-logo-1400.webp
        Imagemagick: Generated 0 file(s)
-        Generating: JekyllImagemagick::ImageGenerator finished in 0.005755 seconds.
-        Generating: Jekyll::JekyllSitemap finished in 0.006081 seconds.
+        Generating: JekyllImagemagick::ImageGenerator finished in 0.006028 seconds.
+        Generating: Jekyll::JekyllSitemap finished in 0.003692 seconds.
        Jekyll Feed: Generating feed for posts
-        Generating: JekyllFeed::Generator finished in 0.002846 seconds.
+        Generating: JekyllFeed::Generator finished in 0.001693 seconds.
          AutoPages: Disabled/Not configured in site.config.
         Pagination: Starting
         Pagination: found page: _pages/blog.md
         Pagination: Complete, processed 1 pagination page(s)
-        Generating: Jekyll::PaginateV2::Generator::PaginationGenerator finished in 0.002875 seconds.
+        Generating: Jekyll::PaginateV2::Generator::PaginationGenerator finished in 0.002145 seconds.
          Rendering: _posts/2015-03-15-formatting-and-links.md
   Pre-Render Hooks: _posts/2015-03-15-formatting-and-links.md
   Rendering Markup: _posts/2015-03-15-formatting-and-links.md
@@ -346,8 +347,6 @@ Post-Convert Hooks: _posts/2023-07-04-jupyter-notebook.md
   Pre-Render Hooks: _posts/2023-07-12-post-bibliography.md
   Rendering Liquid: _posts/2023-07-12-post-bibliography.md
              Cache: Cannot dump object a8977c1f4b6631caacf02d800d8d886abed015ad563944003d7c74203b11a344
-             Cache: Cannot dump object einstein1950meaning
-             Cache: Cannot dump object einstein1905movement
              Cache: Cannot dump object einstein1905electrodynamics
   Rendering Markup: _posts/2023-07-12-post-bibliography.md
 Post-Convert Hooks: _posts/2023-07-12-post-bibliography.md
@@ -453,28 +452,467 @@ Post-Convert Hooks: _news/announcement_3.md
          Rendering: _projects/1_project.md
   Pre-Render Hooks: _projects/1_project.md
   Rendering Liquid: _projects/1_project.md
-[31m  Liquid Exception: Liquid syntax error (line 134): Unknown tag 'endraw' in /Users/kelsipage/Documents/GitHub/kelsipage.github.io/_projects/1_project.md[0m
+  Rendering Markup: _projects/1_project.md
+Post-Convert Hooks: _projects/1_project.md
+  Rendering Layout: _projects/1_project.md
+         Rendering: _projects/2_project.md
+  Pre-Render Hooks: _projects/2_project.md
+  Rendering Liquid: _projects/2_project.md
+  Rendering Markup: _projects/2_project.md
+Post-Convert Hooks: _projects/2_project.md
+  Rendering Layout: _projects/2_project.md
+         Rendering: _projects/3_project.md
+  Pre-Render Hooks: _projects/3_project.md
+  Rendering Liquid: _projects/3_project.md
+  Rendering Markup: _projects/3_project.md
+Post-Convert Hooks: _projects/3_project.md
+  Rendering Layout: _projects/3_project.md
+         Rendering: _projects/4_project.md
+  Pre-Render Hooks: _projects/4_project.md
+  Rendering Liquid: _projects/4_project.md
+  Rendering Markup: _projects/4_project.md
+Post-Convert Hooks: _projects/4_project.md
+  Rendering Layout: _projects/4_project.md
+         Rendering: _projects/5_project.md
+  Pre-Render Hooks: _projects/5_project.md
+  Rendering Liquid: _projects/5_project.md
+  Rendering Markup: _projects/5_project.md
+Post-Convert Hooks: _projects/5_project.md
+  Rendering Layout: _projects/5_project.md
+         Rendering: _projects/6_project.md
+  Pre-Render Hooks: _projects/6_project.md
+  Rendering Liquid: _projects/6_project.md
+  Rendering Markup: _projects/6_project.md
+Post-Convert Hooks: _projects/6_project.md
+  Rendering Layout: _projects/6_project.md
+         Rendering: _projects/7_project.md
+  Pre-Render Hooks: _projects/7_project.md
+  Rendering Liquid: _projects/7_project.md
+  Rendering Markup: _projects/7_project.md
+Post-Convert Hooks: _projects/7_project.md
+  Rendering Layout: _projects/7_project.md
+         Rendering: _projects/8_project.md
+  Pre-Render Hooks: _projects/8_project.md
+  Rendering Liquid: _projects/8_project.md
+  Rendering Markup: _projects/8_project.md
+Post-Convert Hooks: _projects/8_project.md
+  Rendering Layout: _projects/8_project.md
+         Rendering: _projects/9_project.md
+  Pre-Render Hooks: _projects/9_project.md
+  Rendering Liquid: _projects/9_project.md
+  Rendering Markup: _projects/9_project.md
+Post-Convert Hooks: _projects/9_project.md
+  Rendering Layout: _projects/9_project.md
+         Rendering: _pages/404.md
+  Pre-Render Hooks: _pages/404.md
+  Rendering Liquid: _pages/404.md
+  Rendering Markup: _pages/404.md
+Post-Convert Hooks: _pages/404.md
+  Rendering Layout: _pages/404.md
+         Rendering: _pages/about.md
+  Pre-Render Hooks: _pages/about.md
+  Rendering Markup: _pages/about.md
+Post-Convert Hooks: _pages/about.md
+  Rendering Layout: _pages/about.md
+         Rendering: _pages/books.md
+  Pre-Render Hooks: _pages/books.md
+  Rendering Markup: _pages/books.md
+Post-Convert Hooks: _pages/books.md
+  Rendering Layout: _pages/books.md
+         Rendering: _scripts/cronitor-analytics-setup.js
+  Pre-Render Hooks: _scripts/cronitor-analytics-setup.js
+  Rendering Liquid: _scripts/cronitor-analytics-setup.js
+  Rendering Markup: _scripts/cronitor-analytics-setup.js
+Post-Convert Hooks: _scripts/cronitor-analytics-setup.js
+  Rendering Layout: _scripts/cronitor-analytics-setup.js
+         Rendering: _pages/cv.md
+  Pre-Render Hooks: _pages/cv.md
+  Rendering Markup: _pages/cv.md
+Post-Convert Hooks: _pages/cv.md
+  Rendering Layout: _pages/cv.md
+         Rendering: _pages/dropdown.md
+  Pre-Render Hooks: _pages/dropdown.md
+  Rendering Markup: _pages/dropdown.md
+Post-Convert Hooks: _pages/dropdown.md
+  Rendering Layout: _pages/dropdown.md
+         Rendering: _scripts/giscus-setup.js
+  Pre-Render Hooks: _scripts/giscus-setup.js
+  Rendering Liquid: _scripts/giscus-setup.js
+  Rendering Markup: _scripts/giscus-setup.js
+Post-Convert Hooks: _scripts/giscus-setup.js
+  Rendering Layout: _scripts/giscus-setup.js
+         Rendering: _scripts/google-analytics-setup.js
+  Pre-Render Hooks: _scripts/google-analytics-setup.js
+  Rendering Liquid: _scripts/google-analytics-setup.js
+  Rendering Markup: _scripts/google-analytics-setup.js
+Post-Convert Hooks: _scripts/google-analytics-setup.js
+  Rendering Layout: _scripts/google-analytics-setup.js
+         Rendering: assets/css/main.scss
+  Pre-Render Hooks: assets/css/main.scss
+  Rendering Liquid: assets/css/main.scss
+  Rendering Markup: assets/css/main.scss
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+7 │   "variables",
+  │   ^^^^^^^^^^^
+  ╵
+    /Users/kelsipage/Documents/GitHub/kelsipage.github.io/assets/css/main.scss 7:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+8 │   "themes",
+  │   ^^^^^^^^
+  ╵
+    /Users/kelsipage/Documents/GitHub/kelsipage.github.io/assets/css/main.scss 8:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+9 │   "layout",
+  │   ^^^^^^^^
+  ╵
+    /Users/kelsipage/Documents/GitHub/kelsipage.github.io/assets/css/main.scss 9:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+10 │   "base",
+   │   ^^^^^^
+   ╵
+    /Users/kelsipage/Documents/GitHub/kelsipage.github.io/assets/css/main.scss 10:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+11 │   "distill",
+   │   ^^^^^^^^^
+   ╵
+    /Users/kelsipage/Documents/GitHub/kelsipage.github.io/assets/css/main.scss 11:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use string.unquote instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+9 │     #{$fa-icon-property}: unquote("\"#{ $icon }\"");
+  │                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    /Users/kelsipage/Documents/GitHub/kelsipage.github.io/_sass/font-awesome/_icons.scss 9:27  @import
+    font-awesome/fontawesome.scss 20:9                                                         @import
+    /Users/kelsipage/Documents/GitHub/kelsipage.github.io/assets/css/main.scss 15:3            root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use string.unquote instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+10 │     #{$fa-duotone-icon-property}: unquote("\"#{$icon}#{$icon}\"");
+   │                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    /Users/kelsipage/Documents/GitHub/kelsipage.github.io/_sass/font-awesome/_icons.scss 10:35  @import
+    font-awesome/fontawesome.scss 20:9                                                          @import
+    /Users/kelsipage/Documents/GitHub/kelsipage.github.io/assets/css/main.scss 15:3             root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use string.unquote instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+29 │   .#{$fa-css-prefix}-#{$name} { #{$fa-icon-property}: unquote("\"#{ $icon }\""); }
+   │                                                       ^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    font-awesome/brands.scss 29:55                                                   @import
+    /Users/kelsipage/Documents/GitHub/kelsipage.github.io/assets/css/main.scss 16:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use string.unquote instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+36 │   @return unquote("\"")+unquote(str-insert($str, "\\", 1))+unquote("\"")
+   │           ^^^^^^^^^^^^^
+   ╵
+    tabler-icons/tabler-icons.scss 36:11                                             unicode()
+    tabler-icons/tabler-icons.scss 40:15                                             @import
+    /Users/kelsipage/Documents/GitHub/kelsipage.github.io/assets/css/main.scss 19:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use string.insert instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+36 │   @return unquote("\"")+unquote(str-insert($str, "\\", 1))+unquote("\"")
+   │                                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    tabler-icons/tabler-icons.scss 36:33                                             unicode()
+    tabler-icons/tabler-icons.scss 40:15                                             @import
+    /Users/kelsipage/Documents/GitHub/kelsipage.github.io/assets/css/main.scss 19:3  root stylesheet
+WARNING: 39 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+Post-Convert Hooks: assets/css/main.scss
+         Rendering: _pages/news.md
+  Pre-Render Hooks: _pages/news.md
+  Rendering Liquid: _pages/news.md
+  Rendering Markup: _pages/news.md
+Post-Convert Hooks: _pages/news.md
+  Rendering Layout: _pages/news.md
+         Rendering: _scripts/open-panel-analytics-setup.js
+  Pre-Render Hooks: _scripts/open-panel-analytics-setup.js
+  Rendering Liquid: _scripts/open-panel-analytics-setup.js
+  Rendering Markup: _scripts/open-panel-analytics-setup.js
+Post-Convert Hooks: _scripts/open-panel-analytics-setup.js
+  Rendering Layout: _scripts/open-panel-analytics-setup.js
+         Rendering: _scripts/photoswipe-setup.js
+  Pre-Render Hooks: _scripts/photoswipe-setup.js
+  Rendering Liquid: _scripts/photoswipe-setup.js
+  Rendering Markup: _scripts/photoswipe-setup.js
+Post-Convert Hooks: _scripts/photoswipe-setup.js
+  Rendering Layout: _scripts/photoswipe-setup.js
+         Rendering: _pages/projects.md
+  Pre-Render Hooks: _pages/projects.md
+  Rendering Liquid: _pages/projects.md
+  Rendering Markup: _pages/projects.md
+Post-Convert Hooks: _pages/projects.md
+  Rendering Layout: _pages/projects.md
+         Rendering: _pages/publications.md
+  Pre-Render Hooks: _pages/publications.md
+  Rendering Liquid: _pages/publications.md
+  Rendering Markup: _pages/publications.md
+Post-Convert Hooks: _pages/publications.md
+  Rendering Layout: _pages/publications.md
+         Rendering: _pages/repositories.md
+  Pre-Render Hooks: _pages/repositories.md
+  Rendering Liquid: _pages/repositories.md
+  Rendering Markup: _pages/repositories.md
+Post-Convert Hooks: _pages/repositories.md
+  Rendering Layout: _pages/repositories.md
+         Rendering: robots.txt
+  Pre-Render Hooks: robots.txt
+  Rendering Liquid: robots.txt
+  Rendering Markup: robots.txt
+Post-Convert Hooks: robots.txt
+  Rendering Layout: robots.txt
+         Rendering: _scripts/search.liquid.js
+  Pre-Render Hooks: _scripts/search.liquid.js
+  Rendering Liquid: _scripts/search.liquid.js
+  Rendering Markup: _scripts/search.liquid.js
+Post-Convert Hooks: _scripts/search.liquid.js
+  Rendering Layout: _scripts/search.liquid.js
+         Rendering: _pages/teaching.md
+  Pre-Render Hooks: _pages/teaching.md
+  Rendering Markup: _pages/teaching.md
+Post-Convert Hooks: _pages/teaching.md
+  Rendering Layout: _pages/teaching.md
+         Rendering: blog/2015/index.html
+  Pre-Render Hooks: blog/2015/index.html
+  Rendering Markup: blog/2015/index.html
+Post-Convert Hooks: blog/2015/index.html
+  Rendering Layout: blog/2015/index.html
+         Rendering: blog/2020/index.html
+  Pre-Render Hooks: blog/2020/index.html
+  Rendering Markup: blog/2020/index.html
+Post-Convert Hooks: blog/2020/index.html
+  Rendering Layout: blog/2020/index.html
+         Rendering: blog/2021/index.html
+  Pre-Render Hooks: blog/2021/index.html
+  Rendering Markup: blog/2021/index.html
+Post-Convert Hooks: blog/2021/index.html
+  Rendering Layout: blog/2021/index.html
+         Rendering: blog/2022/index.html
+  Pre-Render Hooks: blog/2022/index.html
+  Rendering Markup: blog/2022/index.html
+Post-Convert Hooks: blog/2022/index.html
+  Rendering Layout: blog/2022/index.html
+         Rendering: blog/2023/index.html
+  Pre-Render Hooks: blog/2023/index.html
+  Rendering Markup: blog/2023/index.html
+Post-Convert Hooks: blog/2023/index.html
+  Rendering Layout: blog/2023/index.html
+         Rendering: blog/2024/index.html
+  Pre-Render Hooks: blog/2024/index.html
+  Rendering Markup: blog/2024/index.html
+Post-Convert Hooks: blog/2024/index.html
+  Rendering Layout: blog/2024/index.html
+         Rendering: blog/2025/index.html
+  Pre-Render Hooks: blog/2025/index.html
+  Rendering Markup: blog/2025/index.html
+Post-Convert Hooks: blog/2025/index.html
+  Rendering Layout: blog/2025/index.html
+         Rendering: blog/tag/formatting/index.html
+  Pre-Render Hooks: blog/tag/formatting/index.html
+  Rendering Markup: blog/tag/formatting/index.html
+Post-Convert Hooks: blog/tag/formatting/index.html
+  Rendering Layout: blog/tag/formatting/index.html
+         Rendering: blog/tag/links/index.html
+  Pre-Render Hooks: blog/tag/links/index.html
+  Rendering Markup: blog/tag/links/index.html
+Post-Convert Hooks: blog/tag/links/index.html
+  Rendering Layout: blog/tag/links/index.html
+         Rendering: blog/tag/images/index.html
+  Pre-Render Hooks: blog/tag/images/index.html
+  Rendering Markup: blog/tag/images/index.html
+Post-Convert Hooks: blog/tag/images/index.html
+  Rendering Layout: blog/tag/images/index.html
+         Rendering: blog/tag/code/index.html
+  Pre-Render Hooks: blog/tag/code/index.html
+  Rendering Markup: blog/tag/code/index.html
+Post-Convert Hooks: blog/tag/code/index.html
+  Rendering Layout: blog/tag/code/index.html
+         Rendering: blog/tag/math/index.html
+  Pre-Render Hooks: blog/tag/math/index.html
+  Rendering Markup: blog/tag/math/index.html
+Post-Convert Hooks: blog/tag/math/index.html
+  Rendering Layout: blog/tag/math/index.html
+         Rendering: blog/tag/comments/index.html
+  Pre-Render Hooks: blog/tag/comments/index.html
+  Rendering Markup: blog/tag/comments/index.html
+Post-Convert Hooks: blog/tag/comments/index.html
+  Rendering Layout: blog/tag/comments/index.html
+         Rendering: blog/tag/distill/index.html
+  Pre-Render Hooks: blog/tag/distill/index.html
+  Rendering Markup: blog/tag/distill/index.html
+Post-Convert Hooks: blog/tag/distill/index.html
+  Rendering Layout: blog/tag/distill/index.html
+         Rendering: blog/tag/diagrams/index.html
+  Pre-Render Hooks: blog/tag/diagrams/index.html
+  Rendering Markup: blog/tag/diagrams/index.html
+Post-Convert Hooks: blog/tag/diagrams/index.html
+  Rendering Layout: blog/tag/diagrams/index.html
+         Rendering: blog/tag/toc/index.html
+  Pre-Render Hooks: blog/tag/toc/index.html
+  Rendering Markup: blog/tag/toc/index.html
+Post-Convert Hooks: blog/tag/toc/index.html
+  Rendering Layout: blog/tag/toc/index.html
+         Rendering: blog/tag/tables/index.html
+  Pre-Render Hooks: blog/tag/tables/index.html
+  Rendering Markup: blog/tag/tables/index.html
+Post-Convert Hooks: blog/tag/tables/index.html
+  Rendering Layout: blog/tag/tables/index.html
+         Rendering: blog/tag/videos/index.html
+  Pre-Render Hooks: blog/tag/videos/index.html
+  Rendering Markup: blog/tag/videos/index.html
+Post-Convert Hooks: blog/tag/videos/index.html
+  Rendering Layout: blog/tag/videos/index.html
+         Rendering: blog/tag/audios/index.html
+  Pre-Render Hooks: blog/tag/audios/index.html
+  Rendering Markup: blog/tag/audios/index.html
+Post-Convert Hooks: blog/tag/audios/index.html
+  Rendering Layout: blog/tag/audios/index.html
+         Rendering: blog/tag/sidebar/index.html
+  Pre-Render Hooks: blog/tag/sidebar/index.html
+  Rendering Markup: blog/tag/sidebar/index.html
+Post-Convert Hooks: blog/tag/sidebar/index.html
+  Rendering Layout: blog/tag/sidebar/index.html
+         Rendering: blog/tag/blockquotes/index.html
+  Pre-Render Hooks: blog/tag/blockquotes/index.html
+  Rendering Markup: blog/tag/blockquotes/index.html
+Post-Convert Hooks: blog/tag/blockquotes/index.html
+  Rendering Layout: blog/tag/blockquotes/index.html
+         Rendering: blog/tag/jupyter/index.html
+  Pre-Render Hooks: blog/tag/jupyter/index.html
+  Rendering Markup: blog/tag/jupyter/index.html
+Post-Convert Hooks: blog/tag/jupyter/index.html
+  Rendering Layout: blog/tag/jupyter/index.html
+         Rendering: blog/tag/bib/index.html
+  Pre-Render Hooks: blog/tag/bib/index.html
+  Rendering Markup: blog/tag/bib/index.html
+Post-Convert Hooks: blog/tag/bib/index.html
+  Rendering Layout: blog/tag/bib/index.html
+         Rendering: blog/tag/charts/index.html
+  Pre-Render Hooks: blog/tag/charts/index.html
+  Rendering Markup: blog/tag/charts/index.html
+Post-Convert Hooks: blog/tag/charts/index.html
+  Rendering Layout: blog/tag/charts/index.html
+         Rendering: blog/tag/maps/index.html
+  Pre-Render Hooks: blog/tag/maps/index.html
+  Rendering Markup: blog/tag/maps/index.html
+Post-Convert Hooks: blog/tag/maps/index.html
+  Rendering Layout: blog/tag/maps/index.html
+         Rendering: blog/tag/citation/index.html
+  Pre-Render Hooks: blog/tag/citation/index.html
+  Rendering Markup: blog/tag/citation/index.html
+Post-Convert Hooks: blog/tag/citation/index.html
+  Rendering Layout: blog/tag/citation/index.html
+         Rendering: blog/category/sample-posts/index.html
+  Pre-Render Hooks: blog/category/sample-posts/index.html
+  Rendering Markup: blog/category/sample-posts/index.html
+Post-Convert Hooks: blog/category/sample-posts/index.html
+  Rendering Layout: blog/category/sample-posts/index.html
+         Rendering: blog/category/external-services/index.html
+  Pre-Render Hooks: blog/category/external-services/index.html
+  Rendering Markup: blog/category/external-services/index.html
+Post-Convert Hooks: blog/category/external-services/index.html
+  Rendering Layout: blog/category/external-services/index.html
+         Rendering: books/2025/index.html
+  Pre-Render Hooks: books/2025/index.html
+  Rendering Markup: books/2025/index.html
+Post-Convert Hooks: books/2025/index.html
+  Rendering Layout: books/2025/index.html
+         Rendering: books/tag/top-100/index.html
+  Pre-Render Hooks: books/tag/top-100/index.html
+  Rendering Markup: books/tag/top-100/index.html
+Post-Convert Hooks: books/tag/top-100/index.html
+  Rendering Layout: books/tag/top-100/index.html
+         Rendering: books/category/classics/index.html
+  Pre-Render Hooks: books/category/classics/index.html
+  Rendering Markup: books/category/classics/index.html
+Post-Convert Hooks: books/category/classics/index.html
+  Rendering Layout: books/category/classics/index.html
+         Rendering: books/category/crime/index.html
+  Pre-Render Hooks: books/category/crime/index.html
+  Rendering Markup: books/category/crime/index.html
+Post-Convert Hooks: books/category/crime/index.html
+  Rendering Layout: books/category/crime/index.html
+         Rendering: books/category/historical-fiction/index.html
+  Pre-Render Hooks: books/category/historical-fiction/index.html
+  Rendering Markup: books/category/historical-fiction/index.html
+Post-Convert Hooks: books/category/historical-fiction/index.html
+  Rendering Layout: books/category/historical-fiction/index.html
+         Rendering: books/category/mystery/index.html
+  Pre-Render Hooks: books/category/mystery/index.html
+  Rendering Markup: books/category/mystery/index.html
+Post-Convert Hooks: books/category/mystery/index.html
+  Rendering Layout: books/category/mystery/index.html
+         Rendering: books/category/novels/index.html
+  Pre-Render Hooks: books/category/novels/index.html
+  Rendering Markup: books/category/novels/index.html
+Post-Convert Hooks: books/category/novels/index.html
+  Rendering Layout: books/category/novels/index.html
+         Rendering: books/category/thriller/index.html
+  Pre-Render Hooks: books/category/thriller/index.html
+  Rendering Markup: books/category/thriller/index.html
+Post-Convert Hooks: books/category/thriller/index.html
+  Rendering Layout: books/category/thriller/index.html
+         Rendering: assets/jupyter/blog.ipynb
+  Pre-Render Hooks: assets/jupyter/blog.ipynb
+  Rendering Markup: assets/jupyter/blog.ipynb
+[31m  Conversion error: JekyllJupyterNotebook::Converter encountered an error while converting 'assets/jupyter/blog.ipynb':[0m
+[31m                    No such file or directory - jupyter[0m
 bundler: failed to load command: jekyll (/Users/kelsipage/.rbenv/versions/3.3.5/bin/jekyll)
-/Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/liquid-4.0.4/lib/liquid/document.rb:23:in `unknown_tag': Liquid syntax error (line 134): Unknown tag 'endraw' (Liquid::SyntaxError)
-	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/liquid-4.0.4/lib/liquid/document.rb:11:in `block in parse'
-	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/liquid-4.0.4/lib/liquid/block_body.rb:32:in `parse'
-	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/liquid-4.0.4/lib/liquid/document.rb:10:in `parse'
-	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/liquid-4.0.4/lib/liquid/document.rb:5:in `parse'
-	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/liquid-4.0.4/lib/liquid/template.rb:130:in `parse'
-	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/liquid-4.0.4/lib/liquid/template.rb:114:in `parse'
-	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/liquid_renderer/file.rb:13:in `block in parse'
-	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/liquid_renderer/file.rb:70:in `measure_time'
-	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/liquid_renderer/file.rb:12:in `parse'
-	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/renderer.rb:124:in `render_liquid'
-	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/renderer.rb:80:in `render_document'
+/Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/jekyll-jupyter-notebook-0.0.6/lib/jekyll-jupyter-notebook/converter.rb:58:in `spawn': No such file or directory - jupyter (Errno::ENOENT)
+	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/jekyll-jupyter-notebook-0.0.6/lib/jekyll-jupyter-notebook/converter.rb:58:in `block in convert_notebook'
+	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/jekyll-jupyter-notebook-0.0.6/lib/jekyll-jupyter-notebook/converter.rb:49:in `pipe'
+	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/jekyll-jupyter-notebook-0.0.6/lib/jekyll-jupyter-notebook/converter.rb:49:in `convert_notebook'
+	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/jekyll-jupyter-notebook-0.0.6/lib/jekyll-jupyter-notebook/converter.rb:28:in `convert'
+	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/renderer.rb:105:in `block in convert'
+	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/renderer.rb:104:in `each'
+	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/renderer.rb:104:in `reduce'
+	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/renderer.rb:104:in `convert'
+	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/renderer.rb:84:in `render_document'
 	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/renderer.rb:63:in `run'
 	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/site.rb:572:in `render_regenerated'
-	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/site.rb:557:in `block (2 levels) in render_docs'
-	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/site.rb:556:in `each'
-	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/site.rb:556:in `block in render_docs'
-	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/site.rb:555:in `each_value'
-	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/site.rb:555:in `render_docs'
-	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/site.rb:210:in `render'
+	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/site.rb:564:in `block in render_pages'
+	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/site.rb:563:in `each'
+	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/site.rb:563:in `render_pages'
+	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/site.rb:211:in `render'
 	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/site.rb:80:in `process'
 	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/command.rb:28:in `process_site'
 	from /Users/kelsipage/.rbenv/versions/3.3.5/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/commands/build.rb:65:in `build'

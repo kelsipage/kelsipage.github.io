@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 title: cv
 nav: true
-nav_order: 5
+nav_order: 2
 description: Take a look at my past professional work and volunteer experience.
 ---
 

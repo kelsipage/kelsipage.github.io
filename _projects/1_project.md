@@ -188,9 +188,7 @@ This last set of data looks at which school districts are paying more in cyber c
     </div>
 </div>
 
-
-
-My final question is this: Is the increasing enrollment in cyber charter schools due to a desire to participate in a virtual education setting or due to lack of funding and educational opportunity within some of our state's poorest and underfunded districts? Are students desiring a cyber school learning experience, or are they leaving in hopes that it provides a better learning experience than their brick and mortar public school?
+Final question: Is the increasing enrollment in cyber charter schools due to a desire to participate in a virtual education or due to lack of funding for some of our state's poorest and underfunded districts?
 
 <!--
 <div class="row">

@@ -188,18 +188,20 @@ This last set of data looks at which school districts are paying more in cyber c
     </div>
 </div>
 
+
+
 My final question is this: Is the increasing enrollment in cyber charter schools due to a desire to participate in a virtual education setting or due to lack of funding and educational opportunity within some of our state's poorest and underfunded districts? Are students desiring a cyber school learning experience, or are they leaving in hopes that it provides a better learning experience than their brick and mortar public school?
 
 ---
 
 ## References
 
-- Pennsylvania Department of Education. (2023). _Annual Financial Report Data_ [Dataset]. Retrieved from [https://www.education.pa.gov/DataAndReporting/FinancialData/Pages/AFRData.aspx](https://www.education.pa.gov/DataAndReporting/FinancialData/Pages/AFRData.aspx)
+- Pennsylvania Department of Education. (2023). *Annual Financial Report Data* [Dataset]. Retrieved from [https://www.education.pa.gov/DataAndReporting/FinancialData/Pages/AFRData.aspx](https://www.education.pa.gov/DataAndReporting/FinancialData/Pages/AFRData.aspx)
 
-- Pennsylvania Department of Education. (2023). _Enrollment Data and Statistics_ [Dataset]. Retrieved from [https://www.education.pa.gov/DataAndReporting/EnrollmentReports/Pages/default.aspx](https://www.education.pa.gov/DataAndReporting/EnrollmentReports/Pages/default.aspx)
+- Pennsylvania Department of Education. (2023). *Enrollment Data and Statistics* [Dataset]. Retrieved from [https://www.education.pa.gov/DataAndReporting/EnrollmentReports/Pages/default.aspx](https://www.education.pa.gov/DataAndReporting/EnrollmentReports/Pages/default.aspx)
 
-- U.S. Census Bureau. (2023). _American Community Survey 5-Year Estimates_ [Dataset]. Retrieved from [https://data.census.gov](https://data.census.gov)
+- U.S. Census Bureau. (2023). *American Community Survey 5-Year Estimates* [Dataset]. Retrieved from [https://data.census.gov](https://data.census.gov)
 
-- Pennsylvania Department of Education. (2022). _Pennsylvania School Performance Profile_. Retrieved from [https://www.paschoolperformance.org](https://www.paschoolperformance.org)
+- Pennsylvania Department of Education. (2022). *Pennsylvania School Performance Profile*. Retrieved from [https://www.paschoolperformance.org](https://www.paschoolperformance.org)
 
-- National Center for Education Statistics. (2023). _Common Core of Data_ [Dataset]. Retrieved from [https://nces.ed.gov/ccd/](https://nces.ed.gov/ccd/)
+- National Center for Education Statistics. (2023). *Common Core of Data* [Dataset]. Retrieved from [https://nces.ed.gov/ccd/](https://nces.ed.gov/ccd/)

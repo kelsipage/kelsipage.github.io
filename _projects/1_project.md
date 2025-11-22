@@ -192,60 +192,16 @@ This last set of data looks at which school districts are paying more in cyber c
 
 My final question is this: Is the increasing enrollment in cyber charter schools due to a desire to participate in a virtual education setting or due to lack of funding and educational opportunity within some of our state's poorest and underfunded districts? Are students desiring a cyber school learning experience, or are they leaving in hopes that it provides a better learning experience than their brick and mortar public school?
 
-<!--
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img src="assets/img/cyber pic.jpg" alt="Cyber Funding" class="img-fluid rounded z-depth-1" loading="eager" />
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img src="assets/img/3.jpg" alt="example image" class="img-fluid rounded z-depth-1" loading="eager" />
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img src="assets/img/5.jpg" alt="example image" class="img-fluid rounded z-depth-1" loading="eager" />
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img src="assets/img/5.jpg" alt="example image" class="img-fluid rounded z-depth-1" loading="eager" />
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+---
 
-You can also put regular text between your rows of images, even citations (Einstein, 1950).
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## References
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img src="assets/img/6.jpg" alt="example image" class="img-fluid rounded z-depth-1" />
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img src="assets/img/11.jpg" alt="example image" class="img-fluid rounded z-depth-1" />
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+- Pennsylvania Department of Education. (2023). *Annual Financial Report Data* [Dataset]. Retrieved from [https://www.education.pa.gov/DataAndReporting/FinancialData/Pages/AFRData.aspx](https://www.education.pa.gov/DataAndReporting/FinancialData/Pages/AFRData.aspx)
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+- Pennsylvania Department of Education. (2023). *Enrollment Data and Statistics* [Dataset]. Retrieved from [https://www.education.pa.gov/DataAndReporting/EnrollmentReports/Pages/default.aspx](https://www.education.pa.gov/DataAndReporting/EnrollmentReports/Pages/default.aspx)
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    <img src="assets/img/6.jpg" alt="example image" class="img-fluid rounded z-depth-1" />
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    <img src="assets/img/11.jpg" alt="example image" class="img-fluid rounded z-depth-1" />
-  </div>
-</div>
-```
+- U.S. Census Bureau. (2023). *American Community Survey 5-Year Estimates* [Dataset]. Retrieved from [https://data.census.gov](https://data.census.gov)
 
--->
+- Pennsylvania Department of Education. (2022). *Pennsylvania School Performance Profile*. Retrieved from [https://www.paschoolperformance.org](https://www.paschoolperformance.org)
+
+- National Center for Education Statistics. (2023). *Common Core of Data* [Dataset]. Retrieved from [https://nces.ed.gov/ccd/](https://nces.ed.gov/ccd/)

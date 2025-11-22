@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Take a look at some of my teaching resources on Teachers Pay Teachers! Use the code Portfolio to download my resources for free.
-nav: true
+nav: false
 nav_order: 6
 ---
 

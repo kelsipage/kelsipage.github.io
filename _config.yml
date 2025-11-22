@@ -196,6 +196,9 @@ exclude:
   - _includes/repository/
   - _pages/teaching.md
   - _includes/teaching/
+  - _pages/dropdown.md
+  - _includes/dropdown/
+
 keep_files:
   - CNAME
   - .nojekyll

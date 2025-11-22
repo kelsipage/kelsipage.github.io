@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Take a look at some of my teaching resources on Teachers Pay Teachers! Use the code Portfolio to download my resources for free.
 nav: true
 nav_order: 6
 ---

@@ -3,12 +3,10 @@ name: Prettier code formatter
 on:
   pull_request:
     branches:
-      - master
-      - main
+      - disabled-branch
   push:
     branches:
-      - master
-      - main
+      - disabled-branch
 
 jobs:
   check:

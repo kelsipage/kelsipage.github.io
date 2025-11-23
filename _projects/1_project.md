@@ -192,7 +192,7 @@ My final question is this: Is the increasing enrollment in cyber charter schools
 
 ---
 
-## References
+<!-- ## References
 
 - Pennsylvania Department of Education. (2023). _Annual Financial Report Data_ [Dataset]. Retrieved from [https://www.education.pa.gov/DataAndReporting/FinancialData/Pages/AFRData.aspx](https://www.education.pa.gov/DataAndReporting/FinancialData/Pages/AFRData.aspx)
 
@@ -202,4 +202,4 @@ My final question is this: Is the increasing enrollment in cyber charter schools
 
 - Pennsylvania Department of Education. (2022). _Pennsylvania School Performance Profile_. Retrieved from [https://www.paschoolperformance.org](https://www.paschoolperformance.org)
 
-- National Center for Education Statistics. (2023). _Common Core of Data_ [Dataset]. Retrieved from [https://nces.ed.gov/ccd/](https://nces.ed.gov/ccd/)
+- National Center for Education Statistics. (2023). _Common Core of Data_ [Dataset]. Retrieved from [https://nces.ed.gov/ccd/](https://nces.ed.gov/ccd/) -->
